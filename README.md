@@ -1,4 +1,4 @@
-# Projeto: Desenvolvido para o curso da ADA, com base no conhecimento adquirido no curso da Udemy - Arquitetura de Microsserviços: Padrão Saga Orquestrado.
+# Projeto: Desenvolvido para o curso da ADA, com base no conhecimento adquirido no curso da Udemy, no curso da própria Ada - Arquitetura de Microsserviços: Padrão Saga Orquestrado.
 
 Repositório contendo o projeto desenvolvido do curso Arquitetura de Microsserviços: Padrão Saga Orquestrado para avaliação da 
 **ADA**.
@@ -358,4 +358,5 @@ Para realizar queries e validar se os dados existem:
 ## Autor
 
 ### Gabriel Dos Santos Cunha
+
 ### Desenvolvedor de Software Back-End
